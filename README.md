@@ -9,7 +9,7 @@ This repository contains code for classifying potato diseases using deep learnin
 
 ## Dataset
 
-The dataset used for training and evaluation is located in the directory `/content/drive/MyDrive/Potato disease classification/Training/Plan`. It consists of images of potato plants affected by various diseases.
+The dataset used for training and evaluation is located at `https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset`. It consists of images of potato plants affected by various diseases.
 
 ## Code Overview
 
